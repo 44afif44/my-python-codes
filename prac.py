@@ -1,0 +1,8 @@
+a=input("Enterg a number:")
+b=input("Enterg a number:")
+c=input("Enterg a number:")
+d=input("Enterg a number:")
+e=input("Enterg a number:")
+f=input("Enterg a number:")
+g=input("Enterg a number:")
+print(a,b,c,d,e,f,g)

@@ -1,0 +1,18 @@
+marks=[]
+in1=input("enter a marks value::")
+marks.append(in1)
+in2=input("enter a marks value::")
+marks.append(in2)
+
+in3=input("enter a marks value::")
+marks.append(in3)
+in4=input("enter a marks value::")
+marks.append(in4)
+in5=input("enter a marks value::")
+marks.append(in5)
+in6=input("enter a marks value::")
+marks.append(in6)
+in7=input("enter a marks value::")
+marks.append(in7)
+marks.reverse()
+print(marks)
