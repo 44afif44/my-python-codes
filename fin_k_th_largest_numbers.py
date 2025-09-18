@@ -7,7 +7,7 @@ list_2=[]
 for i in list:
     list_2.append(int(i))
 list_2.sort(reverse=True)
-print(f"the sorted list in descending order is : {list_2}")
+print(f"ur given numbers in descending order : {list_2}")
 k=int(input("enter k th largest number you want : "))
 print(list_2[k-1])
 
