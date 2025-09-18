@@ -16,6 +16,9 @@
 # as_list_3.sort(reverse=True)
 
 # print(as_list_3)
-list=[1,2,3,4,5,6,7,8,9]
-h=min(list)
-print(h)
+# list=[1,2,3,4,5,6,7,8,9]
+# h=min(list)
+# print(h)
+take=list((input("enter a number : ")))
+inte=int(take)
+print(inte)
